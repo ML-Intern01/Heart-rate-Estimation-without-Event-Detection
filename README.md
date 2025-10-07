@@ -8,9 +8,16 @@ Data : Google drive link  - https://drive.google.com/drive/folders/10EMZPiZ-aOcC
               There are 2 folders within the link 
                 1) H_R data : Combined all the Heart Sound audio files from the different sources
                 2) Different Sources : This folder contatins the data which was collected from the different sources (AiSteth, R-Peak, Open-website, ZCH datasets).
-              
-              
-              Excel sheet : 
 
+Preprocessing : 
+                1) Butterworth Bandpass filter
+                2) Resampled to 1000 Hz
+                3) Z-Normalization 
+Code is in the name of Preprocessing.py
 
-      
+Feature Extraction : Extaacted Mel-Spectrogram as feature and saving this features as .npy file 
+Code is in the name of Feature.py
+
+Model Training :
+                Model - BiLSTM
+                
