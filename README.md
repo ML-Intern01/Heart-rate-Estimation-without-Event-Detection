@@ -1,4 +1,4 @@
-                                                                      **Heart Rate Estimation without Event Detection **
+**Heart Rate Estimation without Event Detection **
 
 Problem Statement : Develop a robust and efficient method for continuously estimating heart rate from physiological signals without relying on explicit beat detection or segmentation.
 
