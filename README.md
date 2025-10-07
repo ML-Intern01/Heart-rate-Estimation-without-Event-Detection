@@ -6,7 +6,8 @@ Technical Document Link : https://docs.google.com/document/d/1392ogqvK8laxwUWLTo
 
 Data : Google drive link 
                         https://drive.google.com/drive/folders/10EMZPiZ-aOcCc4bqbWYVQ-oaczaCIK_J?usp=drive_link
-      Data was collected from Aisteth as well as open source. 
+                        Data was collected from Aisteth as well as open source. 
 
-      
+
+
       
